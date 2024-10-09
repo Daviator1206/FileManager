@@ -26,7 +26,7 @@ The following file types are supported:
 ## Installation
 
 1. Clone the repository from GitHub:
-   git clone https://github.com/yourusername/file-manager.git
+   git clone https://github.com/yourusername/filemanager.git
    
 3. Navigate to the project directory:
    cd file-manager
