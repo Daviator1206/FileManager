@@ -34,27 +34,26 @@ The following file types are supported:
 4. Install the required dependencies:
    pip install -r requirements.txt
 
-Usage
+#Usage
 Run the script:
-python file_manager.py
+python FileManager.py
 Input the directory path where you want to organize files.
 
 The script will automatically create folders (if not already present) and move files into their respective categories based on the file extension.
 
 A notification will be displayed when the files are successfully moved, and the log file will be updated.
 
-Requirements
+#Requirements
 Python 3.x
 notifypy library: Install it using the following command:
 pip install notifypy
 
 This project integrates with notifypy to send desktop notifications. You will receive a notification when:
 
-
 Log File
 A log file is maintained to track the execution of the script. It records the date and time when the script is run.
 
-License
+#License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 
